@@ -1,5 +1,7 @@
 import json
 import os.path
+from get_animal_info import get_animal_info
+
 
 def file_exists(file_path: str) -> bool:
     """Check if a file exists at the given path.
@@ -79,10 +81,11 @@ def main():
         FileNotFoundError: If the JSON or HTML template file does not exist.
     """
 
-    if not file_exists('animals_data.json'):
-        raise FileNotFoundError('The file "animals_data.json" does not exist.')
 
-    animals_data = load_data('animals_data.json')
+    animal = input('Enter the name of the animal to search for (e.g., "fox"): ').strip().lower()
+    animals_data = get_animal_info(animal)
+    if not animals_data:
+        raise ValueError(f"No data found for {animal}.")
     foxes_data = get_data(animals_data)
     if not file_exists('animals_template.html'):
         raise FileNotFoundError('The file "animals_template.html" does not exist.')
