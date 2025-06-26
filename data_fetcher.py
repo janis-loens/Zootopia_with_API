@@ -20,7 +20,7 @@ def load_data(file_path: str) -> list[dict[str, str | list[str] | dict[str, str]
         return json.load(handle)
 
 
-def fetch_data(animal_name: str) -> dict[str, str | list[str] | dict[str, str]] | None:
+def get_data(animal_name: str) -> dict[str, str | list[str] | dict[str, str]] | None:
     """Fetch animal information from the API by animal name.
 
     Args:
@@ -32,7 +32,7 @@ def fetch_data(animal_name: str) -> dict[str, str | list[str] | dict[str, str]] 
     """
 
     api_url = 'https://api.api-ninjas.com/v1/animals?name={}'.format(animal_name)
-    response = requests.get(api_url, headers={'X-Api-Key': API_KEY})
+    response = requests.get(api_url, headers={'X-Api-Key': "kfakgkag"})
 
     if response.status_code == 200:
         return response.json()
@@ -45,10 +45,9 @@ def fetch_data(animal_name: str) -> dict[str, str | list[str] | dict[str, str]] 
     
     return None
     
-def main():
-    animal_name = input("Enter the name of the animal: ").strip()
+def fetch_data(animal_name: str) -> list[dict[str, str | list[str] | dict[str, str]]] | None:
     
-    animal_info = fetch_data(animal_name)
+    animal_info = get_data(animal_name)
 
     if animal_info:
         print(f"Information for {animal_name} fetched from API")
@@ -65,7 +64,7 @@ def main():
                 )
                 if chosen_animal_info:
                     print("Data loaded from local file.")
-                    return chosen_animal_info
+                    return [chosen_animal_info]
                 else:
                     print(f"No information found for {animal_name} in local data.")
             except Exception as e:
@@ -75,4 +74,4 @@ def main():
         return None
 
 if __name__ == "__main__":
-   print(main())
+   fetch_data()
