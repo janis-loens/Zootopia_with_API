@@ -113,21 +113,21 @@ def main():
         FileNotFoundError: If the JSON or HTML template file does not exist.
     """
 
-    if not file_exists('animals_template.html'):
+    if not file_exists('html/animals_template.html'):
             raise FileNotFoundError('The file "animals_template.html" does not exist.')
-    html_data = read_html('animals_template.html')
+    html_data = read_html('html/animals_template.html')
     animal = input('Enter the name of the animal to search for (e.g., "fox"): ').strip().lower()
     animals_data = fetch_data(animal)
 
     if not animals_data:
         error_message = error_html(html_data, animal)
-        update_html('animals.html', error_message)
+        update_html('html/animals.html', error_message)
         print(f'No data found for {animal}. HTML file "animals.html" has been updated with an error message.')
 
     else:
         animal_data = get_data(animals_data)
         updated_html = update_html_string(html_data, animal_data)
-        update_html('animals.html', updated_html)
+        update_html('html/animals.html', updated_html)
         print(f'HTML file "animals.html" has been successfully updated with {animal} data.')
 if __name__ == '__main__':
     main()

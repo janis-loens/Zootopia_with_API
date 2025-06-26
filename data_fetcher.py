@@ -7,7 +7,7 @@ load_dotenv()  # lädt die .env-Datei
 
 API_KEY = os.getenv("API_KEY")  # liest den Wert
 
-FILEPATH = 'animal_data.json'
+FILEPATH = 'storage/animal_data.json'
 
 def file_exists(file_path: str) -> bool:
     """Check if a file exists at the given path.
