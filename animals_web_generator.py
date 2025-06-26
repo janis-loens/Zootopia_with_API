@@ -1,5 +1,5 @@
 import os.path
-from data_fetcher import get_animal_info
+from data_fetcher import fetch_data
 
 
 def file_exists(file_path: str) -> bool:
@@ -117,7 +117,7 @@ def main():
             raise FileNotFoundError('The file "animals_template.html" does not exist.')
     html_data = read_html('animals_template.html')
     animal = input('Enter the name of the animal to search for (e.g., "fox"): ').strip().lower()
-    animals_data = get_animal_info(animal)
+    animals_data = fetch_data(animal)
 
     if not animals_data:
         error_message = error_html(html_data, animal)
