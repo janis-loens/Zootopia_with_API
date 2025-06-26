@@ -18,3 +18,16 @@ def get_animal_info(animal_name: str) -> dict[str, str | list[str] | dict[str, s
     else:
         print("Error:", response.status_code, response.text)
         return None
+    
+def main():
+    animal_name = input("Enter the name of the animal: ")
+    animal_info = get_animal_info(animal_name)
+    
+    if animal_info:
+        print(f"Information for {animal_name}:")
+        print(animal_info)
+    else:
+        print(f"No information found for {animal_name}.")
+
+if __name__ == "__main__":
+    main()
