@@ -1,8 +1,12 @@
 import requests
 import os
 import json
+from dotenv import load_dotenv
 
-API_KEY = 'dNDKd0rbYiX7/LSq+JuLKQ==o7TAopY1H9nkSa7n'
+load_dotenv()  # lädt die .env-Datei
+
+API_KEY = os.getenv("API_KEY")  # liest den Wert
+
 FILEPATH = 'animal_data.json'
 
 def file_exists(file_path: str) -> bool:
@@ -32,7 +36,7 @@ def get_data(animal_name: str) -> dict[str, str | list[str] | dict[str, str]] | 
     """
 
     api_url = 'https://api.api-ninjas.com/v1/animals?name={}'.format(animal_name)
-    response = requests.get(api_url, headers={'X-Api-Key': "kfakgkag"})
+    response = requests.get(api_url, headers={'X-Api-Key': API_KEY})
 
     if response.status_code == 200:
         return response.json()
