@@ -1,5 +1,354 @@
 [
   {
+    "name": "African Bush Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Loxodonta",
+      "scientific_name": "Loxodonta africana africana"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Grass, Fruit, Roots",
+      "name_of_young": "Calf",
+      "group_behavior": "Herd",
+      "estimated_population_size": "300,000",
+      "biggest_threat": "Poaching and habitat loss",
+      "most_distinctive_feature": "Large, rounded ears",
+      "other_name(s)": "African Elephant",
+      "gestation_period": "20 - 24 months",
+      "habitat": "Forest, savannah and flood plains",
+      "predators": "Human, Lion, Hyena",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "African Bush Elephant",
+      "number_of_species": "1",
+      "location": "central and southern Africa",
+      "slogan": "Can drink up to 50 gallons a day",
+      "group": "Mammal",
+      "color": "BrownGrey",
+      "skin_type": "Leather",
+      "top_speed": "25 mph",
+      "lifespan": "60 - 70 years",
+      "weight": "3,600kg - 5,400kg (7,900lbs - 12,000lbs)",
+      "height": "3m - 3.5m (10ft - 12ft)",
+      "age_of_sexual_maturity": "11 - 20 years",
+      "age_of_weaning": "6 - 18 months"
+    }
+  },
+  {
+    "name": "African Forest Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Loxodonta",
+      "scientific_name": "Loxodonta cyclotis"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Grass, Fruit, Roots",
+      "name_of_young": "Calf",
+      "group_behavior": "Herd",
+      "estimated_population_size": "200,000",
+      "biggest_threat": "Poaching and habitat loss",
+      "most_distinctive_feature": "Rounded ears and thin, straight tusks",
+      "other_name(s)": "African Elephant",
+      "gestation_period": "22 - 24 months",
+      "habitat": "Forest, savannah and flood plains",
+      "predators": "Human, Lion, Hyena",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "African Forest Elephant",
+      "number_of_species": "1",
+      "location": "central and southern Africa",
+      "slogan": "Have large rounded ears to help keep them cool!",
+      "group": "Mammal",
+      "color": "BrownGrey",
+      "skin_type": "Leather",
+      "top_speed": "24 mph",
+      "lifespan": "60 - 70 years",
+      "weight": "900kg - 3,000kg (1,984lbs - 6,613lbs)",
+      "height": "2m - 3m (6.6ft - 9.8ft)",
+      "age_of_sexual_maturity": "11 - 20 years",
+      "age_of_weaning": "5 years"
+    }
+  },
+  {
+    "name": "Asian Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas maximus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Domesticated for hundreds of years!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Borneo Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas maximus borneensis"
+    },
+    "locations": [
+      "Asia",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "The smallest species of elephant!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae"
+    },
+    "locations": [
+      "Africa",
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Large body size and long trunk",
+      "habitat": "Rainforest and flood plains",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Spends around 22 hours a day eating!",
+      "color": "Grey",
+      "skin_type": "Leather",
+      "top_speed": "25 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,400kg (6,500lbs - 12,000lbs)",
+      "height": "2m - 3.6m (7ft - 12ft)"
+    }
+  },
+  {
+    "name": "Elephant Seal",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Phocidae",
+      "genus": "Mirounga",
+      "scientific_name": "Mirounga"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Squid, Octopus",
+      "distinctive_feature": "Long trunk-like nose and large body",
+      "habitat": "Warm coastal waters close to land",
+      "predators": "Human, Sharks, Killer Whales",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Fish",
+      "type": "Mammal",
+      "slogan": "The largest species of seal in the world!",
+      "color": "BrownGreyBlackTan",
+      "skin_type": "Fur",
+      "top_speed": "12 mph",
+      "lifespan": "18 - 22 years",
+      "weight": "900kg - 3,000kg (2,000lbs - 6,000lbs)",
+      "length": "3m - 5m (10ft - 16ft)"
+    }
+  },
+  {
+    "name": "Elephant Shrew",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Macroscelidea",
+      "family": "Macroscelididae",
+      "genus": "Elephantulus",
+      "scientific_name": "Elephantulus"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "main_prey": "Insects, Worms, Spiders",
+      "distinctive_feature": "Long nose and long back legs",
+      "habitat": "Forest, woodland and grassland",
+      "predators": "Snakes, Lizards, Birds of Prey",
+      "diet": "Omnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Solitary",
+      "favorite_food": "Insects",
+      "type": "Mammal",
+      "slogan": "Found exclusively on the African continent!",
+      "color": "BrownGreyBlackWhiteTan",
+      "skin_type": "Fur",
+      "top_speed": "8 mph",
+      "lifespan": "2 - 5 years",
+      "weight": "50g - 500g (2oz - 18oz)",
+      "length": "10cm - 30cm (4in - 12in)"
+    }
+  },
+  {
+    "name": "Indian Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas maximus indicus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Found throughout south-east Asia!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Sri Lankan Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas Maximus Maximus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Now restricted to a few parks!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Sumatran Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas Maximus Sumatranus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Less than 2,000 left in the wild!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
     "name": "Aardvark",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -1723,73 +2072,6 @@
       "weight": "0.35 to 0.67 ounces",
       "length": "2 inches",
       "age_of_sexual_maturity": "Soon after pupating"
-    }
-  },
-  {
-    "name": "Anteater",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Xenarthra",
-      "family": "Myrmecophagidae",
-      "genus": "Tamandua",
-      "scientific_name": "Myrmecophaga Tridactyla"
-    },
-    "locations": [
-      "Central-America",
-      "South-America"
-    ],
-    "characteristics": {
-      "main_prey": "Ants, Termites, Insects",
-      "distinctive_feature": "Elongated snout and long sticky tongue",
-      "habitat": "Forest and grasslands",
-      "predators": "Puma, Snakes, Jaguar",
-      "diet": "Omnivore",
-      "average_litter_size": "1",
-      "lifestyle": "Solitary",
-      "favorite_food": "Ants",
-      "type": "Mammal",
-      "slogan": "Found throughout the Southern Hemisphere!",
-      "color": "BrownGreyBlackTan",
-      "skin_type": "Fur",
-      "top_speed": "18 mph",
-      "lifespan": "9 - 20 years",
-      "weight": "18kg - 40kg (40lbs - 88lbs)",
-      "length": "0.9m - 2.1m (3ft - 7ft)"
-    }
-  },
-  {
-    "name": "Antelope",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Artiodactyla",
-      "family": "Bovidae"
-    },
-    "locations": [
-      "Africa",
-      "Asia",
-      "Eurasia",
-      "North-America"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Shoots, Seeds",
-      "distinctive_feature": "Long legs and curved antlers",
-      "habitat": "Forest and grasslands",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "Renew their horns every year!",
-      "color": "BrownRedTan",
-      "skin_type": "Fur",
-      "top_speed": "43 mph",
-      "lifespan": "10 - 25 years",
-      "weight": "500kg - 900kg (1,100lbs - 2,000lbs)",
-      "height": "1m - 1.5m (3 - 5ft)"
     }
   },
   {
@@ -5800,38 +6082,6 @@
     }
   },
   {
-    "name": "Caterpillar",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Arthropoda",
-      "class": "Insecta",
-      "order": "Lepidoptera"
-    },
-    "locations": [
-      "Africa",
-      "Asia",
-      "Central-America",
-      "Eurasia",
-      "Europe",
-      "North-America",
-      "Oceania",
-      "South-America"
-    ],
-    "characteristics": {
-      "main_prey": "Leaves, Plants, Flowers",
-      "habitat": "Quiet forests and pastures",
-      "predators": "Birds, Wasps, Mammals",
-      "diet": "Herbivore",
-      "favorite_food": "Leaves",
-      "common_name": "Caterpillar",
-      "number_of_species": "21000",
-      "location": "Worldwide",
-      "slogan": "The larvae of a moth or butterfly!",
-      "color": "YellowRedBlueBlackGreenOrange",
-      "skin_type": "Hair"
-    }
-  },
-  {
     "name": "Australian Cattle Dog",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -7731,177 +7981,6 @@
       "skin_type": "Feathers",
       "lifespan": "22 to 30 years",
       "height": "5ft"
-    }
-  },
-  {
-    "name": "Crocodile",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Reptilia",
-      "order": "Crocodilia",
-      "family": "Crocodylidae",
-      "genus": "Crocodylus",
-      "scientific_name": "Crocodylus acutus"
-    },
-    "locations": [
-      "Africa",
-      "Asia",
-      "Central-America",
-      "North-America",
-      "Oceania",
-      "South-America"
-    ],
-    "characteristics": {
-      "prey": "Fish, crustaceans, deer, buffalo",
-      "name_of_young": "Hatchling",
-      "group_behavior": "Social",
-      "estimated_population_size": "Unknown",
-      "biggest_threat": "Habitat loss and hunting",
-      "most_distinctive_feature": "Eyes and nostrils located on top of the head and snout",
-      "other_name(s)": "American crocodile, Orinoco crocodile, Freshwater crocodile, Philippine crocodile, Mexican crocodile, Nile crocodile, New Guinea crocodile, Mugger crocodile, Estuarine crocodile, Cuban crocodile, Siamese crocodile, Dwarf crocodile, Slender-snouted crocodile",
-      "incubation_period": "3 months",
-      "age_of_independence": "1 - 2 years",
-      "habitat": "Rivers, lakes, marshes, lagoons, mangrove swamps and estuaries",
-      "predators": "Humans, Large felines, Birds of prey",
-      "diet": "Carnivore",
-      "lifestyle": "Nocturnal",
-      "common_name": "Crocodile, Croc",
-      "number_of_species": "13",
-      "location": "North, Central and South America, Africa, Asia, Australia",
-      "slogan": "Have changed little in 200 million years!",
-      "group": "Reptile",
-      "color": "BrownGreyBlackDull Olive",
-      "skin_type": "Plate-like scales",
-      "top_speed": "25 mph",
-      "lifespan": "20 - 70 years",
-      "weight": "18kg - 1,000kg (40lbs - 2,200lbs)",
-      "length": "1.7m - 7m (5.5ft - 23ft)",
-      "age_of_sexual_maturity": "4 - 12 years"
-    }
-  },
-  {
-    "name": "Dwarf Crocodile",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "order": "Crocodilia",
-      "family": "Crocodylidae",
-      "genus": "Osteolaemus",
-      "scientific_name": "Osteolaemus tetraspis"
-    },
-    "locations": [
-      "Africa"
-    ],
-    "characteristics": {
-      "prey": "Fish, Crustaceans, Frogs",
-      "name_of_young": "Hatchling",
-      "group_behavior": "Solitary",
-      "estimated_population_size": "25,000 - 100,000",
-      "biggest_threat": "Habitat loss and hunting",
-      "most_distinctive_feature": "Short and broad snout",
-      "other_name(s)": "African Dwarf Crocodile, Black Crocodile, Bony Crocodile, Broad-Snouted Crocodile, Rough-Backed Crocodile",
-      "incubation_period": "3 months",
-      "age_of_independence": "Up to a few weeks",
-      "habitat": "Rainforest rivers and swamps",
-      "predators": "Crocodiles, Large Birds and Mammals",
-      "diet": "Carnivore",
-      "lifestyle": "Nocturnal",
-      "common_name": "Dwarf Crocodile",
-      "number_of_species": "2",
-      "location": "West Africa",
-      "average_clutch_size": "10",
-      "slogan": "Digs burrows in river banks to rest!",
-      "group": "Reptile",
-      "color": "GreyYellowBlack",
-      "skin_type": "Scales",
-      "top_speed": "11 mph",
-      "lifespan": "40 - 75 years",
-      "weight": "18kg - 32kg (40lbs - 70lbs)",
-      "length": "1.7m - 1.9m (5.5ft - 6.25ft)",
-      "age_of_sexual_maturity": "4 - 5 years"
-    }
-  },
-  {
-    "name": "Freshwater Crocodile",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Reptilia",
-      "order": "Crocodilia",
-      "family": "Crocodylidae",
-      "genus": "Crocodylus",
-      "scientific_name": "Crocodylus johnstoni"
-    },
-    "locations": [
-      "Oceania"
-    ],
-    "characteristics": {
-      "prey": "Insects, fish, crustaceans, spiders, lizards, birds, snakes, frogs, turtles, bats and small mammals.",
-      "name_of_young": "Hatchling",
-      "group_behavior": "Social",
-      "estimated_population_size": "Less than 100,000 but its conservation status is least concern.",
-      "biggest_threat": "Cane toads, habitat destruction",
-      "most_distinctive_feature": "Its narrow snout",
-      "other_name(s)": "Freshie, Johnstone\u2019s crocodile, Australian freshwater crocodile, Johnstone River Crocodile, Johnson's Crocodile, Johnstone's Crocodile",
-      "gestation_period": "65 to 95 days",
-      "litter_size": "13 to 20",
-      "habitat": "Rivers, billabongs, swamps, lagoons, other bodies of fresh water",
-      "predators": "Feral pigs and monitor lizards eat the eggs, olive pythons may eat smaller individuals",
-      "diet": "Carnivore",
-      "type": "Reptile",
-      "common_name": "Freshwater crocodile",
-      "number_of_species": "1",
-      "location": "Northern Australia",
-      "group": "Bask, nest",
-      "color": "GreyDark BrownDull OliveLight-Brown",
-      "skin_type": "Plate-like scales",
-      "top_speed": "10.56 mph",
-      "lifespan": "Lifespan usually 40 to 60 years but some have reached 100 years",
-      "weight": "159 pounds for males, 88 pounds for females",
-      "length": "7.5 to 9.75 feet for males, 6.9 feet for females",
-      "age_of_sexual_maturity": "17 to 20 years for males, 15 to 20 years for females"
-    }
-  },
-  {
-    "name": "Nile Crocodile",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Reptilia",
-      "order": "Crocodilia",
-      "family": "Crocodylidae",
-      "genus": "Crocodylus",
-      "scientific_name": "Crocodylus niloticus"
-    },
-    "locations": [
-      "Africa"
-    ],
-    "characteristics": {
-      "prey": "Fish, hippos, zebras, other crocodiles, birds",
-      "name_of_young": "Hatchling",
-      "group_behavior": "Solitary",
-      "estimated_population_size": "50,000-70,000 mature adults",
-      "biggest_threat": "Poaching",
-      "most_distinctive_feature": "Large size",
-      "other_name(s)": "Nile croc",
-      "gestation_period": "84 to 90 days",
-      "litter_size": "25-80",
-      "habitat": "Mangrove swamps, rivers, freshwater marshes",
-      "predators": "Humans",
-      "diet": "Carnivore",
-      "type": "Reptile",
-      "common_name": "Nile Crocodile",
-      "number_of_species": "2",
-      "location": "Africa",
-      "color": "Dark BrownOlive",
-      "skin_type": "Scales",
-      "top_speed": "22 mph",
-      "lifespan": "45 years",
-      "weight": "500lbs-1,650lbs",
-      "length": "16ft-20ft",
-      "age_of_sexual_maturity": "Males-relates to their size, Females-10 years old",
-      "age_of_weaning": "Right after hatching"
     }
   },
   {
@@ -11173,355 +11252,6 @@
       "skin_type": "Hair",
       "lifespan": "12 \u2013 16 years",
       "weight": "17 lbs"
-    }
-  },
-  {
-    "name": "African Bush Elephant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Proboscidea",
-      "family": "Elephantidae",
-      "genus": "Loxodonta",
-      "scientific_name": "Loxodonta africana africana"
-    },
-    "locations": [
-      "Africa"
-    ],
-    "characteristics": {
-      "prey": "Grass, Fruit, Roots",
-      "name_of_young": "Calf",
-      "group_behavior": "Herd",
-      "estimated_population_size": "300,000",
-      "biggest_threat": "Poaching and habitat loss",
-      "most_distinctive_feature": "Large, rounded ears",
-      "other_name(s)": "African Elephant",
-      "gestation_period": "20 - 24 months",
-      "habitat": "Forest, savannah and flood plains",
-      "predators": "Human, Lion, Hyena",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Diurnal",
-      "common_name": "African Bush Elephant",
-      "number_of_species": "1",
-      "location": "central and southern Africa",
-      "slogan": "Can drink up to 50 gallons a day",
-      "group": "Mammal",
-      "color": "BrownGrey",
-      "skin_type": "Leather",
-      "top_speed": "25 mph",
-      "lifespan": "60 - 70 years",
-      "weight": "3,600kg - 5,400kg (7,900lbs - 12,000lbs)",
-      "height": "3m - 3.5m (10ft - 12ft)",
-      "age_of_sexual_maturity": "11 - 20 years",
-      "age_of_weaning": "6 - 18 months"
-    }
-  },
-  {
-    "name": "African Forest Elephant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Proboscidea",
-      "family": "Elephantidae",
-      "genus": "Loxodonta",
-      "scientific_name": "Loxodonta cyclotis"
-    },
-    "locations": [
-      "Africa"
-    ],
-    "characteristics": {
-      "prey": "Grass, Fruit, Roots",
-      "name_of_young": "Calf",
-      "group_behavior": "Herd",
-      "estimated_population_size": "200,000",
-      "biggest_threat": "Poaching and habitat loss",
-      "most_distinctive_feature": "Rounded ears and thin, straight tusks",
-      "other_name(s)": "African Elephant",
-      "gestation_period": "22 - 24 months",
-      "habitat": "Forest, savannah and flood plains",
-      "predators": "Human, Lion, Hyena",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Diurnal",
-      "common_name": "African Forest Elephant",
-      "number_of_species": "1",
-      "location": "central and southern Africa",
-      "slogan": "Have large rounded ears to help keep them cool!",
-      "group": "Mammal",
-      "color": "BrownGrey",
-      "skin_type": "Leather",
-      "top_speed": "24 mph",
-      "lifespan": "60 - 70 years",
-      "weight": "900kg - 3,000kg (1,984lbs - 6,613lbs)",
-      "height": "2m - 3m (6.6ft - 9.8ft)",
-      "age_of_sexual_maturity": "11 - 20 years",
-      "age_of_weaning": "5 years"
-    }
-  },
-  {
-    "name": "Asian Elephant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Proboscidea",
-      "family": "Elephantidae",
-      "genus": "Elephas",
-      "scientific_name": "Elephas maximus"
-    },
-    "locations": [
-      "Asia"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Fruit, Roots",
-      "distinctive_feature": "Long trunk and large feet",
-      "habitat": "Rainforest and tropical woodland",
-      "predators": "Human, Tiger",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "Domesticated for hundreds of years!",
-      "color": "BrownGreyBlack",
-      "skin_type": "Leather",
-      "top_speed": "27 mph",
-      "lifespan": "55 - 70 years",
-      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
-      "height": "2m - 3m (7ft - 10ft)"
-    }
-  },
-  {
-    "name": "Borneo Elephant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Proboscidea",
-      "family": "Elephantidae",
-      "genus": "Elephas",
-      "scientific_name": "Elephas maximus borneensis"
-    },
-    "locations": [
-      "Asia",
-      "Ocean"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Fruit, Roots",
-      "distinctive_feature": "Long trunk and large feet",
-      "habitat": "Rainforest and tropical woodland",
-      "predators": "Human, Tiger",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "The smallest species of elephant!",
-      "color": "BrownGreyBlack",
-      "skin_type": "Leather",
-      "top_speed": "27 mph",
-      "lifespan": "55 - 70 years",
-      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
-      "height": "2m - 3m (7ft - 10ft)"
-    }
-  },
-  {
-    "name": "Elephant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Proboscidea",
-      "family": "Elephantidae"
-    },
-    "locations": [
-      "Africa",
-      "Asia"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Fruit, Roots",
-      "distinctive_feature": "Large body size and long trunk",
-      "habitat": "Rainforest and flood plains",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "Spends around 22 hours a day eating!",
-      "color": "Grey",
-      "skin_type": "Leather",
-      "top_speed": "25 mph",
-      "lifespan": "55 - 70 years",
-      "weight": "3,000kg - 5,400kg (6,500lbs - 12,000lbs)",
-      "height": "2m - 3.6m (7ft - 12ft)"
-    }
-  },
-  {
-    "name": "Elephant Seal",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Phocidae",
-      "genus": "Mirounga",
-      "scientific_name": "Mirounga"
-    },
-    "locations": [
-      "Ocean"
-    ],
-    "characteristics": {
-      "main_prey": "Fish, Squid, Octopus",
-      "distinctive_feature": "Long trunk-like nose and large body",
-      "habitat": "Warm coastal waters close to land",
-      "predators": "Human, Sharks, Killer Whales",
-      "diet": "Carnivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Fish",
-      "type": "Mammal",
-      "slogan": "The largest species of seal in the world!",
-      "color": "BrownGreyBlackTan",
-      "skin_type": "Fur",
-      "top_speed": "12 mph",
-      "lifespan": "18 - 22 years",
-      "weight": "900kg - 3,000kg (2,000lbs - 6,000lbs)",
-      "length": "3m - 5m (10ft - 16ft)"
-    }
-  },
-  {
-    "name": "Elephant Shrew",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Macroscelidea",
-      "family": "Macroscelididae",
-      "genus": "Elephantulus",
-      "scientific_name": "Elephantulus"
-    },
-    "locations": [
-      "Africa"
-    ],
-    "characteristics": {
-      "main_prey": "Insects, Worms, Spiders",
-      "distinctive_feature": "Long nose and long back legs",
-      "habitat": "Forest, woodland and grassland",
-      "predators": "Snakes, Lizards, Birds of Prey",
-      "diet": "Omnivore",
-      "average_litter_size": "2",
-      "lifestyle": "Solitary",
-      "favorite_food": "Insects",
-      "type": "Mammal",
-      "slogan": "Found exclusively on the African continent!",
-      "color": "BrownGreyBlackWhiteTan",
-      "skin_type": "Fur",
-      "top_speed": "8 mph",
-      "lifespan": "2 - 5 years",
-      "weight": "50g - 500g (2oz - 18oz)",
-      "length": "10cm - 30cm (4in - 12in)"
-    }
-  },
-  {
-    "name": "Indian Elephant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Proboscidea",
-      "family": "Elephantidae",
-      "genus": "Elephas",
-      "scientific_name": "Elephas maximus indicus"
-    },
-    "locations": [
-      "Asia"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Fruit, Roots",
-      "distinctive_feature": "Long trunk and large feet",
-      "habitat": "Rainforest and tropical woodland",
-      "predators": "Human, Tiger",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "Found throughout south-east Asia!",
-      "color": "BrownGreyBlack",
-      "skin_type": "Leather",
-      "top_speed": "27 mph",
-      "lifespan": "55 - 70 years",
-      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
-      "height": "2m - 3m (7ft - 10ft)"
-    }
-  },
-  {
-    "name": "Sri Lankan Elephant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Proboscidea",
-      "family": "Elephantidae",
-      "genus": "Elephas",
-      "scientific_name": "Elephas Maximus Maximus"
-    },
-    "locations": [
-      "Asia"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Fruit, Roots",
-      "distinctive_feature": "Long trunk and large feet",
-      "habitat": "Rainforest and tropical woodland",
-      "predators": "Human, Tiger",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "Now restricted to a few parks!",
-      "color": "BrownGreyBlack",
-      "skin_type": "Leather",
-      "top_speed": "27 mph",
-      "lifespan": "55 - 70 years",
-      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
-      "height": "2m - 3m (7ft - 10ft)"
-    }
-  },
-  {
-    "name": "Sumatran Elephant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Proboscidea",
-      "family": "Elephantidae",
-      "genus": "Elephas",
-      "scientific_name": "Elephas Maximus Sumatranus"
-    },
-    "locations": [
-      "Asia"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Fruit, Roots",
-      "distinctive_feature": "Long trunk and large feet",
-      "habitat": "Rainforest and tropical woodland",
-      "predators": "Human, Tiger",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "Less than 2,000 left in the wild!",
-      "color": "BrownGreyBlack",
-      "skin_type": "Leather",
-      "top_speed": "27 mph",
-      "lifespan": "55 - 70 years",
-      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
-      "height": "2m - 3m (7ft - 10ft)"
     }
   },
   {
@@ -18235,42 +17965,6 @@
     }
   },
   {
-    "name": "Goldfish",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Actinopterygii",
-      "order": "Cypriniformes",
-      "family": "Cyprinidae",
-      "genus": "Carassius",
-      "scientific_name": "Carassius auratus"
-    },
-    "locations": [
-      "Asia"
-    ],
-    "characteristics": {
-      "prey": "Insects, small crustaceans",
-      "group_behavior": "Gregarious",
-      "estimated_population_size": "Many millions",
-      "biggest_threat": "None",
-      "most_distinctive_feature": "The orange-gold color of domestic fish",
-      "water_type": "Fresh",
-      "optimum_ph_level": "6.0 to 8.0",
-      "habitat": "Cold freshwater rivers, canals, ditches with lots of vegetation",
-      "predators": "Waterbirds, turtles, larger fish",
-      "diet": "Omnivore",
-      "type": "Fish",
-      "common_name": "Fish",
-      "number_of_species": "1",
-      "color": "BlackWhiteOrangeOliveGolden",
-      "skin_type": "Scales",
-      "top_speed": "0.86 mph",
-      "lifespan": "Up to 41 years",
-      "weight": "Up to 5 pounds",
-      "length": "1 to 2 inches to over 16 inches"
-    }
-  },
-  {
     "name": "Egyptian Goose",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -20454,225 +20148,6 @@
     }
   },
   {
-    "name": "Freshwater Jellyfish",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Limnomedusae",
-      "family": "Olindiidae",
-      "genus": "Craspedacusta",
-      "scientific_name": "Craspedacusta sowerbyi"
-    },
-    "locations": [
-      "Africa",
-      "Asia",
-      "Central-America",
-      "Europe",
-      "North-America",
-      "South-America"
-    ],
-    "characteristics": {
-      "prey": "Zooplankton",
-      "group_behavior": "Colony",
-      "estimated_population_size": "Millions",
-      "biggest_threat": "None",
-      "most_distinctive_feature": "Its resistance to drought",
-      "other_name(s)": "Peach blossom jellyfish",
-      "gestation_period": "days to months",
-      "diet": "Omnivore",
-      "common_name": "freshwater jellyfishh",
-      "number_of_species": "1",
-      "color": "WhiteGreen",
-      "top_speed": "4.6 mph",
-      "lifespan": "1-2 years",
-      "weight": "0.11 to 0.18 ounces",
-      "length": "0.196 to 1 inch"
-    }
-  },
-  {
-    "name": "Immortal Jellyfish",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Anthoathecata",
-      "family": "Oceaniidae",
-      "genus": "Turritopsis",
-      "scientific_name": "Turritopsis dohrnii"
-    },
-    "locations": [
-      "Ocean"
-    ],
-    "characteristics": {
-      "prey": "Tiny sea creatures",
-      "group_behavior": "Colony",
-      "estimated_population_size": "Unknown",
-      "biggest_threat": "Predation",
-      "most_distinctive_feature": "Regeneration ability",
-      "other_name(s)": "The Benjamin Button jellyfish",
-      "gestation_period": "2-3 days",
-      "water_type": "Salt",
-      "habitat": "Temperate to tropical saltwater worldwide",
-      "predators": "Larger jellyfish, sea anemones, tuna, sharks, swordfish, sea turtles, penguins",
-      "diet": "Omnivore",
-      "favorite_food": "Plankton, fish eggs, larvae, brine shrimp",
-      "type": "Medusuzoa",
-      "common_name": "Immortal jellyfish, Benjamin Button jellyfish",
-      "number_of_species": "1",
-      "skin_type": "Smooth",
-      "top_speed": "4.97 mph",
-      "lifespan": "Immortal",
-      "length": "0.18inches"
-    }
-  },
-  {
-    "name": "Jellyfish",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Cnidaria",
-      "class": "Scyphozoa",
-      "order": "Semaeostomeae",
-      "family": "Cyaneidae"
-    },
-    "locations": [
-      "Ocean"
-    ],
-    "characteristics": {
-      "prey": "Small fish, plants, fish eggs, larvae, other small marine creatures",
-      "group_behavior": "Group",
-      "estimated_population_size": "900 million, as of 1990",
-      "biggest_threat": "Sharks, birds, tuna, and sea anemone",
-      "most_distinctive_feature": "Tentacles hanging from the body that help aid the jellyfish's stinging characteristics",
-      "gestation_period": "Hatches within one day",
-      "habitat": "All oceans on planet earth",
-      "predators": "Sharks, birds, tuna, and sea anemone",
-      "diet": "Carnivore",
-      "average_litter_size": "100",
-      "lifestyle": "Group",
-      "favorite_food": "Small fish, plants, fish eggs, larvae, other small marine creatures",
-      "type": "Cnidaria",
-      "common_name": "Jellyfish",
-      "slogan": "Have tentacles around their mouths!",
-      "color": "YellowRedBlueWhiteGreenOrangePurplePink",
-      "skin_type": "Smooth",
-      "top_speed": "5 mph",
-      "lifespan": "Three to Six months",
-      "weight": "20-400g (0.7-14oz)",
-      "length": "0.5 inches to 16 inches, though they can grow to 7 feet"
-    }
-  },
-  {
-    "name": "Lion\u2019s Mane Jellyfish",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Cnidaria",
-      "class": "Scyphozoa",
-      "order": "Semaeostomeae",
-      "family": "Cyaneidae",
-      "genus": "Cyanea",
-      "scientific_name": "Cyanea capillata"
-    },
-    "locations": [
-      "Ocean"
-    ],
-    "characteristics": {
-      "prey": "Fish, zooplankton, shrimp, other jellyfish",
-      "group_behavior": "Solitary/School",
-      "estimated_population_size": "Possibly millions its IUCN conservation status is unevaluated, but not in danger of extinction",
-      "biggest_threat": "Pollution",
-      "most_distinctive_feature": "Its size",
-      "other_name(s)": "Giant jellyfish, hair jellyfish, hair jellyfish, mane jellyfish, Arctic red jellyfish, sea nettle, sea blubber, winter jellyfish",
-      "gestation_period": "One day",
-      "water_type": "Salt",
-      "optimum_ph_level": "8.1",
-      "habitat": "Cooler ocean waters",
-      "predators": "Seabirds, sea turtles, anemones, ocean sunfish, larger jellies but only when the jellyfish is a juvenile.",
-      "diet": "Carnivore",
-      "type": "Cnidarian",
-      "common_name": "Lion\u2019s Mane Jellyfish",
-      "number_of_species": "1",
-      "color": "YellowRedWhiteOrangePurple",
-      "lifespan": "One year",
-      "weight": "200 pounds",
-      "length": "As much as 120 feet"
-    }
-  },
-  {
-    "name": "Man of War Jellyfish",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Siphonophorae",
-      "family": "Physaliidae",
-      "genus": "Physalia",
-      "scientific_name": "Physalia physalis"
-    },
-    "locations": [
-      "Ocean"
-    ],
-    "characteristics": {
-      "prey": "Small fish, shrimp, plankton",
-      "group_behavior": "Legion",
-      "estimated_population_size": "unknown",
-      "biggest_threat": "predators and climate change",
-      "most_distinctive_feature": "floating balloon-like, air-filled bladder",
-      "other_name(s)": "man o'war, bluebottle, blue bottle jellyfish",
-      "water_type": "Salt",
-      "habitat": "tropical and sub-tropical oceans",
-      "predators": "loggerhead sea turtle, blue sea slug, violet sea snail",
-      "diet": "Carnivore",
-      "type": "siphonophore",
-      "common_name": "Man of war jellyfish",
-      "number_of_species": "1",
-      "color": "BluePurplePink",
-      "skin_type": "Skin",
-      "length": "30ft - 165ft"
-    }
-  },
-  {
-    "name": "Moon Jellyfish",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Cnidaria",
-      "class": "Scyphozoa",
-      "order": "Semaeostomeae",
-      "family": "Ulmaridae",
-      "genus": "Aurelia",
-      "scientific_name": "Aurelia aurita"
-    },
-    "locations": [
-      "Ocean"
-    ],
-    "characteristics": {
-      "prey": "Plankton, small fish, crustaceans, larvae, eggs",
-      "name_of_young": "Planula, polyp, ephyra",
-      "group_behavior": "SmackBloom",
-      "estimated_population_size": "Millions",
-      "biggest_threat": "Humans, sea turtles, sharks, birds",
-      "most_distinctive_feature": "Their moon-shaped, gelatinous, glowing body",
-      "other_name(s)": "Saucer jelly, moon jelly, common jelly",
-      "gestation_period": "Varies",
-      "litter_size": "Can be in the 1000s",
-      "habitat": "Temperate ocean",
-      "predators": "Sea turtles, sharks, humans, fish, birds",
-      "diet": "Carnivore",
-      "lifestyle": "SmackBloom",
-      "type": "Plankton",
-      "common_name": "Moon Jelly",
-      "number_of_species": "25",
-      "location": "Pacific, Indian, and Atlantic Oceans, near the beach",
-      "color": "BluePink",
-      "top_speed": "5 mph",
-      "lifespan": "adults: 12 to 16 months in aquarium tank captivity; polyps: 25 years",
-      "weight": "0.005 - 0.07 pounds",
-      "height": "6 - 15 inches",
-      "length": "10 - 18 inches",
-      "age_of_sexual_maturity": "Varies"
-    }
-  },
-  {
     "name": "Kangaroo",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -20783,89 +20258,6 @@
     }
   },
   {
-    "name": "Kingfisher",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Coraciiformes",
-      "family": "Alcedines"
-    },
-    "locations": [
-      "Africa",
-      "Asia",
-      "Central-America",
-      "Eurasia",
-      "Europe",
-      "North-America",
-      "Ocean",
-      "South-America"
-    ],
-    "characteristics": {
-      "main_prey": "Fish, Shrimp, Insects, Tadpoles",
-      "distinctive_feature": "Small body and long, sharp and straight beaks",
-      "wingspan": "Up to 2 feet",
-      "incubation_period": "2 to 4 weeks",
-      "habitat": "Lowland freshwater areas and river estuaries",
-      "predators": "Foxes, Snakes, Raccoons",
-      "diet": "Omnivore",
-      "lifestyle": "Solitary",
-      "favorite_food": "Fish",
-      "type": "Bird",
-      "average_clutch_size": "4",
-      "slogan": "Inhabits wetlands and woodlands worldwide!",
-      "nesting_location": "Burrows",
-      "age_of_molting": "3 to 8 weeks",
-      "migratory": "1",
-      "color": "BrownYellowRedBlueBlackGreenOrange",
-      "skin_type": "Feathers",
-      "top_speed": "25 mph",
-      "lifespan": "6 - 10 years",
-      "weight": "10g - 170g (0.4oz - 6oz)",
-      "height": "10cm - 37.5cm (4in - 15in)"
-    }
-  },
-  {
-    "name": "Ringed Kingfisher",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Coracliformes",
-      "family": "Alcedinidae",
-      "genus": "Megaceryle",
-      "scientific_name": "Megaceryle torquata"
-    },
-    "locations": [
-      "North-America"
-    ],
-    "characteristics": {
-      "prey": "Fish, frogs, crustaceans",
-      "name_of_young": "Chick",
-      "group_behavior": "Solitary",
-      "estimated_population_size": "20,000,000",
-      "biggest_threat": "Habitat loss, predators",
-      "most_distinctive_feature": "Rust-colored breast",
-      "other_name(s)": "Collared kingfisher",
-      "gestation_period": "23 days",
-      "litter_size": "3-6",
-      "habitat": "Marshes, riverbanks",
-      "predators": "Raptors",
-      "diet": "Carnivore",
-      "common_name": "Ringed kingfisher",
-      "location": "North and South America",
-      "color": "GreyFawnWhite",
-      "skin_type": "Feathers",
-      "top_speed": "25 mph",
-      "lifespan": "5 to 10 years",
-      "weight": "10 to 12 ounces",
-      "height": "3 to 6 inches",
-      "length": "12 to 16 inches",
-      "age_of_sexual_maturity": "1 year",
-      "age_of_weaning": "5 weeks"
-    }
-  },
-  {
     "name": "Koala",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -20937,109 +20329,6 @@
       "top_speed": "60 mph",
       "lifespan": "8-14 years",
       "weight": "120-256kg (265-565lbs)"
-    }
-  },
-  {
-    "name": "Flying Lemur",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Dermoptera",
-      "family": "Cynocephalidae"
-    },
-    "locations": [
-      "Asia"
-    ],
-    "characteristics": {
-      "prey": "Insects",
-      "name_of_young": "Infant",
-      "group_behavior": "Mainly solitary",
-      "estimated_population_size": "101,000",
-      "biggest_threat": "Habitat destruction, hunting",
-      "most_distinctive_feature": "Its ability to glide",
-      "other_name(s)": "Colugo, cobego, flying cat, kagwang",
-      "gestation_period": "60 days for the Sunda, 105 days for the Philippine",
-      "litter_size": "1 or 2",
-      "habitat": "Tropical rain forests",
-      "predators": "Humans, snakes, Philippine eagle",
-      "diet": "Herbivore",
-      "type": "Mammal",
-      "common_name": "Flying lemur",
-      "number_of_species": "2",
-      "location": "Southeast Asia",
-      "group": "Mostly solitary though can form small groups",
-      "color": "BrownGreyRedBlackWhite",
-      "skin_type": "Fur",
-      "top_speed": "22.5 mph",
-      "lifespan": "About 15 to 17.5 years in captivity",
-      "weight": "Sunda: 2 to 4.5 pounds; Philippine 2.2 to 3.85 pounds",
-      "length": "Sunda 19.88 to 27.17 inches; Philippine, 13 to 15 inches",
-      "age_of_sexual_maturity": "2 to 3 years",
-      "age_of_weaning": "6 months"
-    }
-  },
-  {
-    "name": "Grey Mouse Lemur",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Primates",
-      "family": "Cheirogaleidae",
-      "genus": "Microcebus",
-      "scientific_name": "Microcebus murinus"
-    },
-    "locations": [
-      "Africa"
-    ],
-    "characteristics": {
-      "main_prey": "Insects, Fruits, Flowers",
-      "distinctive_feature": "Small body size and large eyes",
-      "habitat": "Tropical Woodland",
-      "predators": "Owls, Snakes, Fossa",
-      "diet": "Omnivore",
-      "average_litter_size": "2",
-      "lifestyle": "Solitary",
-      "favorite_food": "Insects",
-      "type": "Mammal",
-      "slogan": "The largest species of mouse lemur!",
-      "color": "BrownGreyBlackWhite",
-      "skin_type": "Fur",
-      "top_speed": "20 mph",
-      "lifespan": "3 - 8 years",
-      "weight": "58g - 67g (2oz - 2.4oz)",
-      "length": "25cm - 28cm (9.8in - 11in)"
-    }
-  },
-  {
-    "name": "Lemur",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Primates",
-      "family": "Lemuridae",
-      "scientific_name": "Lemur Catta"
-    },
-    "locations": [
-      "Africa"
-    ],
-    "characteristics": {
-      "main_prey": "Fruit, Leaves, Insects",
-      "habitat": "Dry forest and tropical jungle",
-      "predators": "Hawk, Fossa, Wild dogs",
-      "diet": "Omnivore",
-      "average_litter_size": "3",
-      "lifestyle": "Group",
-      "favorite_food": "Fruit",
-      "type": "Mammal",
-      "slogan": "Natively found on the island of Madagascar!",
-      "color": "BrownGreyBlackWhite",
-      "skin_type": "Fur",
-      "top_speed": "12 mph",
-      "lifespan": "10-14 years",
-      "weight": "0.03-10kg (0.06-22lbs)"
     }
   },
   {
@@ -22519,37 +21808,6 @@
       "length": "15-20cm (6-8in)",
       "age_of_sexual_maturity": "10 months",
       "age_of_weaning": "1 month"
-    }
-  },
-  {
-    "name": "Mongoose",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Herpestidae",
-      "genus": "Herpestes",
-      "scientific_name": "Helogale Parvula"
-    },
-    "locations": [
-      "Africa",
-      "Asia"
-    ],
-    "characteristics": {
-      "main_prey": "Rats, Eggs, Insects",
-      "habitat": "Open forests and grass plains",
-      "diet": "Omnivore",
-      "average_litter_size": "4",
-      "lifestyle": "Gang",
-      "favorite_food": "Rats",
-      "type": "Mammal",
-      "slogan": "Range in size from just 1 to 3 foot!",
-      "color": "BrownGreyTan",
-      "skin_type": "Fur",
-      "top_speed": "20 mph",
-      "lifespan": "10-15 years",
-      "weight": "0.3-5kg (0.7-11lbs)"
     }
   },
   {
@@ -24281,92 +23539,6 @@
     }
   },
   {
-    "name": "Florida Panther",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Felidae",
-      "genus": "Puma",
-      "scientific_name": "Puma concolor couguar"
-    },
-    "locations": [
-      "North-America"
-    ],
-    "characteristics": {
-      "prey": "white-tail deer",
-      "name_of_young": "kittens",
-      "group_behavior": "Solitary",
-      "estimated_population_size": "125",
-      "biggest_threat": "Man",
-      "most_distinctive_feature": "Crooked tail",
-      "other_name(s)": "Florida mountain lion, Florida cougar, Florida puma",
-      "gestation_period": "92-96 days",
-      "litter_size": "1-3",
-      "habitat": "Forests, wetlands, and grasslands",
-      "predators": "Man",
-      "diet": "Carnivore",
-      "type": "Mammals",
-      "common_name": "Florida panther",
-      "number_of_species": "1",
-      "location": "Southeast U.S.",
-      "group": "Solitary",
-      "color": "WhiteTan",
-      "skin_type": "Hair",
-      "top_speed": "25 mph",
-      "weight": "45kg-73kg (100lbs-160lbs)",
-      "height": "0.6m- 0.7m(24in-28in)",
-      "length": "1.8m \u2013 2.3m (6ft-7.5ft)",
-      "age_of_sexual_maturity": "18 \u201336 months",
-      "age_of_weaning": "3-4 months"
-    }
-  },
-  {
-    "name": "Panther",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Felidae",
-      "genus": "Panthera",
-      "scientific_name": "Panthera pardus, Panthera onca"
-    },
-    "locations": [
-      "Central-America",
-      "North-America",
-      "South-America"
-    ],
-    "characteristics": {
-      "prey": "Deer, Tapir, Wild Boar",
-      "name_of_young": "Cub",
-      "group_behavior": "Solitary",
-      "estimated_population_size": "Not Known",
-      "biggest_threat": "Habitat loss",
-      "most_distinctive_feature": "Bright emerald green eyes",
-      "other_name(s)": "Black Panther, Black Leopard, Black Jaguar",
-      "gestation_period": "90 - 105 days",
-      "habitat": "Forest, swampland and grasslands",
-      "diet": "Carnivore",
-      "average_litter_size": "3",
-      "lifestyle": "Nocturnal",
-      "common_name": "Panther",
-      "number_of_species": "31",
-      "location": "Asia, Africa, America",
-      "slogan": "Prefers to hunt at night than during the day!",
-      "group": "Mammal",
-      "color": "BlackDark Brown",
-      "skin_type": "Fur",
-      "top_speed": "71 mph",
-      "lifespan": "12 - 15 years",
-      "weight": "36kg - 160kg (79lbs - 350lbs)",
-      "length": "1.1m - 1.9m (43in - 75in)",
-      "age_of_sexual_maturity": "3 - 4 years",
-      "age_of_weaning": "3 months"
-    }
-  },
-  {
     "name": "African Grey Parrot",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -25296,47 +24468,6 @@
     }
   },
   {
-    "name": "Pheasant",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Galliformes",
-      "family": "Phasianidae",
-      "genus": "Phasianus",
-      "scientific_name": "Phasianus Colchicus"
-    },
-    "locations": [
-      "Africa",
-      "Asia",
-      "Central-America",
-      "Eurasia",
-      "Europe",
-      "North-America",
-      "Oceania",
-      "South-America"
-    ],
-    "characteristics": {
-      "main_prey": "Insects, Berries, Seeds",
-      "distinctive_feature": "Brightly coloured feathers and long tail of the male",
-      "wingspan": "71cm - 86cm (28in - 34in)",
-      "habitat": "Grasslands, fields and wetlands",
-      "predators": "Fox, Dog, Human",
-      "diet": "Omnivore",
-      "lifestyle": "Solitary",
-      "favorite_food": "Insects",
-      "type": "Bird",
-      "average_clutch_size": "10",
-      "slogan": "Females lay between 8 and 12 eggs per clutch!",
-      "color": "BrownYellowRedBlackTanGreenOrange",
-      "skin_type": "Feathers",
-      "top_speed": "18 mph",
-      "lifespan": "7 - 10 years",
-      "weight": "0.9kg - 1.5kg (1.9lbs - 3.3lbs)",
-      "length": "53cm - 84cm (21in - 33in)"
-    }
-  },
-  {
     "name": "Guinea Pig",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -25451,92 +24582,6 @@
       "top_speed": "11 mph",
       "lifespan": "8-15 years",
       "weight": "30-350kg (66-770lbs)"
-    }
-  },
-  {
-    "name": "Pigeon",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Columbiformes",
-      "family": "Columbidae"
-    },
-    "locations": [
-      "Africa",
-      "Asia",
-      "Central-America",
-      "Eurasia",
-      "Europe",
-      "North-America",
-      "Oceania",
-      "South-America"
-    ],
-    "characteristics": {
-      "prey": "Grain, seeds, berries, fruits, and occasionally insects, snails, earthworms.",
-      "estimated_population_size": "400 million worldwide",
-      "biggest_threat": "Inference from humans either in the form of pest control or urbanization",
-      "most_distinctive_feature": "White rump and metallic purple/ green iridescence on males",
-      "other_name(s)": "common pigeon, rock dove",
-      "wingspan": "19.7-26.4 inches",
-      "incubation_period": "14-19 days",
-      "habitat": "Often found in towns and cities, as well as farmlands, fields, and rocky cliffs",
-      "diet": "Omnivore",
-      "type": "Bird",
-      "common_name": "Pigeon, dove",
-      "number_of_species": "250",
-      "location": "All continents except Antarctica",
-      "nesting_location": "Buildings or rocky cliffs",
-      "age_of_molting": "12-19 days",
-      "color": "BrownGreyWhite",
-      "skin_type": "Feathers",
-      "top_speed": "95 mph",
-      "lifespan": "6 years",
-      "weight": "9.3-13.4 oz",
-      "height": "25-35 centimeters",
-      "length": "11.8-14.2 inches"
-    }
-  },
-  {
-    "name": "Nicobar pigeon",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Columbiformes",
-      "family": "Columbidae",
-      "genus": "Caloenas",
-      "scientific_name": "Caloenas nicobarica"
-    },
-    "locations": [
-      "Asia",
-      "Oceania"
-    ],
-    "characteristics": {
-      "prey": "Invertebrates",
-      "estimated_population_size": "The population of is unknown, but it is decreasing and the bird\u2019s conservation status is near threatened. There are about 1000 individuals on Palau as of 2021.",
-      "biggest_threat": "Habitat destruction, hunting, collection for the illegal pet trade",
-      "most_distinctive_feature": "The colors of its long, iridescent feathers",
-      "other_name(s)": "Hackled pigeon, vulturine pigeon or white-tailed pigeon",
-      "wingspan": "21 to 23 inches",
-      "incubation_period": "2.5 weeks",
-      "litter_size": "1",
-      "habitat": "Lowland forests and mangrove forests",
-      "predators": "Humans, cats, rats",
-      "diet": "Omnivore",
-      "type": "Bird",
-      "common_name": "Nicobar Pigeon",
-      "number_of_species": "1",
-      "location": "Andaman and Nicobar Islands, Solomon Islands, Palau, islands in the Malay Archipelago",
-      "average_clutch_size": "1",
-      "nesting_location": "A tree",
-      "age_of_molting": "10 days",
-      "color": "GreyBlueWhiteGreenGolden",
-      "skin_type": "Feathers",
-      "top_speed": "93 mph",
-      "lifespan": "8 to 12 years in the wild, and 10 to 15 years in captivity",
-      "weight": "16.22 to 21.16 ounces",
-      "length": "15.7 inches, males larger than females"
     }
   },
   {
@@ -26875,39 +25920,6 @@
     }
   },
   {
-    "name": "Reindeer",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Artiodactyla",
-      "family": "Cervidae",
-      "genus": "Rangifer",
-      "scientific_name": "Rangifer Tarandus"
-    },
-    "locations": [
-      "Eurasia",
-      "Europe",
-      "North-America",
-      "Ocean"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Herbs, Berries",
-      "habitat": "Forests close to the Arctic tundra",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Herd",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "Also known as the Caribou",
-      "color": "BrownGreyWhiteTan",
-      "skin_type": "Fur",
-      "top_speed": "50 mph",
-      "lifespan": "12-15 years",
-      "weight": "60-320kg (132-705lbs)"
-    }
-  },
-  {
     "name": "Black Rhinoceros",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -27634,45 +26646,6 @@
       "lifespan": "15 years",
       "weight": "3.4 pounds",
       "length": "8 inches to 20 inches"
-    }
-  },
-  {
-    "name": "Seahorse",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Actinopterygii",
-      "order": "Syngnathiformes",
-      "family": "Syngnathidae",
-      "genus": "Hippocampus",
-      "scientific_name": "Hippocampus"
-    },
-    "locations": [
-      "Africa",
-      "Asia",
-      "Central-America",
-      "Eurasia",
-      "Europe",
-      "North-America",
-      "Ocean",
-      "Oceania",
-      "South-America"
-    ],
-    "characteristics": {
-      "main_prey": "Tiny Fish, Brine Shrimp, Plankton",
-      "distinctive_feature": "Long snout and brooding pouch on the male",
-      "water_type": "Brackish",
-      "optimum_ph_level": "7.9 - 8.4",
-      "habitat": "Shallow tropical waters and coral reefs",
-      "predators": "Fish, Crabs, Rays",
-      "diet": "Omnivore",
-      "favorite_food": "Tiny Fish",
-      "common_name": "Seahorse",
-      "average_clutch_size": "250",
-      "slogan": "Males give birth to up to 1,000 offspring!",
-      "skin_type": "Skin",
-      "lifespan": "2 - 6 years",
-      "length": "2.5cm - 35cm (0.9in - 12in)"
     }
   },
   {
@@ -36662,37 +35635,6 @@
       "top_speed": "30 mph",
       "lifespan": "10-15 years",
       "weight": "10-31kg (22-70lbs)"
-    }
-  },
-  {
-    "name": "Wombat",
-    "taxonomy": {
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Diprotodontia",
-      "family": "Vombatidae",
-      "genus": "Vombatus",
-      "scientific_name": "Vombatus Ursinus"
-    },
-    "locations": [
-      "Oceania"
-    ],
-    "characteristics": {
-      "main_prey": "Grass, Shrubs, Roots",
-      "habitat": "Woodland and coastal shrub land",
-      "predators": "Dingo, Fox, Wild dogs",
-      "diet": "Herbivore",
-      "average_litter_size": "1",
-      "lifestyle": "Solitary",
-      "favorite_food": "Grass",
-      "type": "Mammal",
-      "slogan": "Spends most of the day underground!",
-      "color": "BrownGreyTan",
-      "skin_type": "Fur",
-      "top_speed": "25 mph",
-      "lifespan": "20-26 years",
-      "weight": "20-35kg (44-77lbs)"
     }
   },
   {
